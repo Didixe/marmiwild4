@@ -1,0 +1,17 @@
+{
+    "name": "dell/workshop-php-mvc-4",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Didixe",
+            "email": "Adeline.gilet@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.7"
+    }
+}
